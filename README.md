@@ -1,13 +1,23 @@
 Project Summary
+
 Name: Pudi Soniya
+
 Company: CodSoft
+
 Batch: June Batch B31
+
 Domain: Web Development
+
 Course Duration: 01–30 June 2025
+
 Project Name: Landing Page
+
 Technologies Used: HTML, CSS, JavaScript
+
 Project Overview: Hospital Landing Page
+
 "C:\Users\pudis\Desktop\landing page.html"
+
 This project is a visually engaging and responsive landing page for a hospital, developed using only HTML and CSS. 
 It represents a professional front page for Healthy Life Hospital, highlighting services, navigation, and key features typically expected in a healthcare web presence.
 
