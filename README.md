@@ -16,7 +16,8 @@ Technologies Used: HTML, CSS, JavaScript
 
 Project Overview: Hospital Landing Page
 
-"C:\Users\pudis\Desktop\landing page.html"
+Output:
+![Image](https://github.com/user-attachments/assets/d2b2ec16-e07b-40e5-8c47-ad381a648820)
 
 This project is a visually engaging and responsive landing page for a hospital, developed using only HTML and CSS. 
 It represents a professional front page for Healthy Life Hospital, highlighting services, navigation, and key features typically expected in a healthcare web presence.
